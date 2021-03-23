@@ -1,0 +1,26 @@
+{
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Modal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "LazyModal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "UserCard": {
+    "description": "Auto imported from components/UserCard.vue"
+  },
+  "LazyUserCard": {
+    "description": "Auto imported from components/UserCard.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/header/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/header/Logo.vue"
+  }
+}

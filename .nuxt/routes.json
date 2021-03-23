@@ -1,0 +1,16 @@
+[
+  {
+    "name": "id-:id",
+    "path": "/id/:id",
+    "component": "/Users/kalibry/dev/vue-network/pages/id/:id.vue",
+    "chunkName": "pages/id/:id",
+    "_name": "_6741077f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kalibry/dev/vue-network/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4fe6f824"
+  }
+]
